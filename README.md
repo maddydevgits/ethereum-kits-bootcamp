@@ -81,6 +81,12 @@ Try the following exercises after setup:
    - Write a function to cast vote for only once
    - Write a function to display results
 
+10. **Create a Smart Contract for Student Score Dashboard** <br/>
+    Implement a smart contract where only admin has to update a student score
+    - Write a function which should be accessible for admin to update a student score
+    - Write a function which should be accessible for everyone to see a student score
+    - Write with the help of Structure
+
 ---
 
 Happy Learning! 🎉  
