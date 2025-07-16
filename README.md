@@ -85,7 +85,6 @@ Try the following exercises after setup:
     Implement a smart contract where only admin has to update a student score
     - Write a function which should be accessible for admin to update a student score
     - Write a function which should be accessible for everyone to see a student score
-    - Write with the help of Structure
 
 ---
 
