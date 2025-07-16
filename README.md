@@ -65,7 +65,7 @@ Try the following exercises after setup:
    Connect Metamask with Remix IDE
    - Select Injected Provider Metamask
    - Select to which account the remix has to be connected
-   - 
+     
 7. **Create a Smart Contract for storing username and password**
    Create a solidity file for storing data in dynamic arrays
    - Create a username dynamic array
